@@ -1,3 +1,13 @@
+
+
+
+
+https://github.com/user-attachments/assets/14e3a4f6-b51a-4fd6-a01e-58899225491a
+
+
+
+
+
 # Task Management System
 
 A full-stack, secure task management application built using the MERN stack (MongoDB, Express, React, Node.js). Features include secure cookie-based JWT user authentication, protected dashboard routing, and interactive task CRUD (Create, Read, Update, Delete) actions with a polished, modern interface.
