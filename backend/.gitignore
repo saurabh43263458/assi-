@@ -1,0 +1,17 @@
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore node modules (for Node.js/JavaScript projects)
+node_modules/
+
+# Ignore environment variables / secrets (CRITICAL for security!)
+.env
+.env.local
+
+# Ignore build directories
+dist/
+build/
+
+# Ignore log files
+*.log
